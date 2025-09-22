@@ -28,10 +28,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 ### 3 - Create a virtual environment (recommended) and Install dependencies:
-We need three environments: **frontend**, **backend**, and **ml**.
 
-For each folder, run:
-- **frontend folder**
 ```bash
 uv init --python 3.12
 uv venv
@@ -41,12 +38,10 @@ uv sync
 Create a **.env** file in the root of your project with the following structure:
 
 ```.env
-    ### Backend URL
+    ### GEMINI API KEY
 
     GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 ```
-
-
 
 ### 5- Activate the virtual environment and run the project:
 - **langgraph-product-analyst-crew**
