@@ -12,7 +12,7 @@ Users can upload their product datasets, visualize distributions and correlation
 
 ### 1 - Clone the repository
 ```bash
-git clone https://github.com/Ayoub-Lamkaddem/CustomerReviewClassifier.git
+git clone https://github.com/Ayoub-Lamkaddem/langgraph-product-analyst-crew.git
 cd langgraph-product-analyst-crew
 ```
 
