@@ -62,4 +62,4 @@ cd frontend
 
 The project is deployed on **Streamlit Cloud**. 
 
-Try the app here: [USA Housing Price Prediction App](https://usahousingpriceprediction-xbezkduhet8gpjzoynktkb.streamlit.app/)
+Try the app here: [Langgraph Product Analyzer](https://langgraph-prd-analyst-crew.streamlit.app/)
