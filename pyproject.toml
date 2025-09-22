@@ -1,0 +1,18 @@
+[project]
+name = "langgraph-product-analyst-crew"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gemini-api>=0.1.6",
+    "google-genai>=1.38.0",
+    "langgraph>=0.6.7",
+    "matplotlib>=3.10.6",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "streamlit>=1.49.1",
+]
